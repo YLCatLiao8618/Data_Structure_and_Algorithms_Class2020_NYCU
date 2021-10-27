@@ -1,4 +1,4 @@
-# Data_Structure_and_Algorithms
+# Data_Structure_and_Algorithms Class Code Functions
 This repository includes Python code and functions used in the Data Structures and Algorithms Class.
 Class Year of 2020/2021, Fall Semester
 from the Institute of Biomedical Informatics at National Yang-Ming Chiao Tung University.
