@@ -3,6 +3,7 @@ This repository includes Python code and functions used in the Data Structures a
 Class Year of 2020/2021, Fall Semester
 from the Institute of Biomedical Informatics at National Yang-Ming Chiao Tung University.
 This Class is part 3 of a set of 3 semester classes (Introduction to Computer Science, Programming(Python), and Data Structure and Algorithms)
+This repository was created for self-education and reference purposes.
 
 The topics below are just a rough overview of what was covered in class. Not all topics in class are shown in this repository.
 
@@ -17,4 +18,4 @@ List of Topics:
 8. Sampling and Standard Error
 9. Machine Learning
 
-The code in this repository should only be used for education purposes only.
+The code in this repository should only be used for education purposes only. 
